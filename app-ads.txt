@@ -1,0 +1,2 @@
+# app-ads.txt for apps published by Workout Master / MaarcoDev on Google Play
+# Authorized sellers will be added here (AppLovin MAX and mediated networks).
